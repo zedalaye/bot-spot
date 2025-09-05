@@ -1,4 +1,5 @@
-.idea
+.idea/
+.vscode/
 bot.conf
 bin
 cycles.db
